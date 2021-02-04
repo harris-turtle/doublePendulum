@@ -12,4 +12,4 @@ Another interesting aspect of this system is its high sensitivity to initial con
 
 <a href="https://i.imgur.com/I0DDnDm.gif"><img src="https://i.imgur.com/I0DDnDm.gif" title="Chaos"/></a>
 
-The two pendulums follow the same initial trajectories but soon after deviate and follow completely different paths. This is called chaos because this system seems to act irratically and hard to accuratly predict into the future without perfect accuracy of initial conditions. Mathematical weather predictions also have this property making them unreliable for long time scales.
+The two pendulums follow the same initial trajectories but soon after deviate and follow completely different paths. This is called chaos because this system seems to act irratically and hard to accurately predict into the future without perfect accuracy of initial conditions. Mathematical weather predictions also have this property making them unreliable for long time scales.
