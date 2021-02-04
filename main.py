@@ -1,4 +1,4 @@
-GlowScript 3.0 VPython
+from vpython import *
 
 #Initial conditions
 theta1=90*pi/180
