@@ -1,5 +1,5 @@
 # doublePendulum
-Code for visualization the motion of a double pendulum.
+Code for a visualization of the motion of a double pendulum.
 ## Why a double pendulum?
 A double pendulum is a very interesting mechanics problem as it posses a tough challange for solving its equation of motion using Newton's laws. Calculating the force of gravity on each mass is easy enough but the difficulty arises when attempting to come up with expressions for the forces of tension. The value and direction of these forces are interconnected with the current positions of the masses making it a mess. Instead this system is used as a prime example for Langrangian mechanics. The Euler-Langrange equation is equivilant to the expression F=ma, but is in a form consisting of only scalars related to the energies of the system. Thus, with this method we would not have to worry about the internal forces of tension or vector expressions for coordinates. Instead we would only have to derive expressions for the gravitation potential energies, kinetic energies, and use only theta1 and theta2 to describe where our system is in space.
 ## Visualization
